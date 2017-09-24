@@ -1,5 +1,7 @@
 # PokeDex
 
+By Srujay Korlakunta and Vineeth Yeevani. Coded for the [Mobile Developers of Berkeley](http://mobiledevsberkeley.edu) training program.
+
 This is a simple app that allows users to search for Pokemon in a variety of ways, emulating a real PokeDex.
 
 Some of the features included in the app:
